@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @TenckHitomi
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python and Web Development
+Language learning enthusiast.
 
 
 <!---
